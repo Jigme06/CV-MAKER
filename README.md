@@ -1,1 +1,1 @@
-This is my first Python project, built to practice data structures and file handling before starting CMPSC 132. I have very less prior coding experience and so I wasn't sure if I should apply this, but we all begin somewhere,dont we? 
+This is my first Python project, built to practice data structures and file handling before starting CMPSC 132. I have very less prior coding experience and so I wasn't sure if I should upload this, but we all begin somewhere,dont we? 
